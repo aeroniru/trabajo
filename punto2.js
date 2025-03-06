@@ -1,1 +1,0 @@
-console.log("Bienvenidos a los puntos prueba")
